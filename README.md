@@ -13,6 +13,7 @@
 必要なもの
   Googleアカウント
     GAS
+      拡張機能：Cheerio
     スプレッドシート
   LINE Messaging API
 
