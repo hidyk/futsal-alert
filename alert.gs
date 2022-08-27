@@ -63,7 +63,4 @@ function postMessage(title, level, capacity, min, reserved) {
     payload: JSON.stringify(payload)
   };
     UrlFetchApp.fetch(lineurl, params);
-    Logger.log(thisgame != lastgamedate);
-    Logger.log(typeof JSON.stringify(thisgame));
-    Logger.log(typeof JSON.stringify(lastgamedate));
 }
