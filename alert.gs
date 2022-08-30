@@ -45,7 +45,6 @@ function postMessage(title, level, capacity, min, reserved) {
   //const lastgamedate = Utilities.formatDate( lastdate, 'Asia/Tokyo', 'yyyy/MM/dd')
 
   Logger.log(reserved);
-  sheet.getSheetByName('シート1').getRange("A1").setValue(title);
 
   const payload = {
     to: '〇〇〇', //送信先LINEユーザーID
