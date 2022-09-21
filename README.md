@@ -66,4 +66,8 @@ https://developers.google.com/sheets/api/guides/concepts
 const lineurl = 'https://api.line.me/v2/bot/message/push'; //LINE Messaging API
 const token = '〇〇〇'; //Messaging API チャンネルアクセストークン
 ```
+2.  送信先LINEIDを添付
+```
+to: '〇〇〇', //送信先LINEユーザーID
+```
 https://developers.line.biz/ja/docs/messaging-api/overview/
