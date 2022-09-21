@@ -32,12 +32,12 @@
 
 ### GAS
 1.  GASにalert.gsを添付
-1.  ライブラリ追加からスクレイピングライブラリCheerioを利用
+2.  ライブラリ追加からスクレイピングライブラリCheerioを利用
 ```
 ライブラリID
 1ReeQ6WO8kKNxoaA_O0XEQ589cIrRvEBA9qcWpNqdOP17i47u6N9M5Xh0
-https://github.com/tani/cheeriogs
 ```
+https://github.com/tani/cheeriogs
 1.  定期実行トリガーを任意の時間に設定
 
 ### 取得するページを指定
